@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729618919 source:c:\users\alecksandre\documents\programação\c++\exercicioconsalg-4.8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
